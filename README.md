@@ -4,6 +4,8 @@ An interactive web application that solves mathematical problems written with em
 
 ![Example Interface](examples/image.png)
 
+For a detailed step-by-step guide on how this model was fine-tuned, check out the [blog post](https://medium.com/@saadsohail5104/finetuning-deepseek-r1-using-grpo-for-emoji-math-with-unsloth-a-step-by-step-guide-dac9e47ab9c9).
+
 ## Model Details
 
 - Base Model: DeepSeek-R1
