@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Replace with your actual ngrok URL
-API_URL = "https://448a-35-240-200-96.ngrok-free.app"  
+API_URL = "https://5985-35-198-250-42.ngrok-free.app"  
 
 st.title("Math Emojis Solver ")
 st.write("Give emoji-based math problems, and I'll solve them for you!")

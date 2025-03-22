@@ -1,6 +1,8 @@
-# DeepSeek Math Emoji Problem Solver
+# DeepSeek R1 Math Emoji Problem Solver
 
 An interactive web application that solves mathematical problems written with emojis using a fine-tuned DeepSeek-R1 language model with GRPO (Group Relative Policy Optimization). This custom-trained model specializes in solving creative mathematical equations represented by emojis.
+
+![Example Interface](examples/image.png)
 
 ## Model Details
 
@@ -13,14 +15,14 @@ An interactive web application that solves mathematical problems written with em
 
 - Solve emoji-based math equations
 - Pre-loaded example problems
-- Interactive Streamlit interface
+- Interactive Streamlit interface   
 - Powered by DeepSeek language model
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/DeepSeek-R1-Creative-Math-Problem-Solver.git
+git clone https://github.com/saadsohail05/DeepSeek-R1-Creative-Math-Problem-Solver.git
 cd DeepSeek-R1-Creative-Math-Problem-Solver
 ```
 
